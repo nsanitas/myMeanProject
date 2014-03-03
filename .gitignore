@@ -1,0 +1,9 @@
+.DS_*
+node_modules
+*.sublime*
+psd
+thumb
+*.log
+demo
+database.*
+public/css/style.css
